@@ -1,0 +1,51 @@
+﻿using FinalProject.Data;
+using FinalProject.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace FinalProject.Repositories
+{
+    public class OrderRepository
+    {
+        private readonly ApplicationDbContext _context;
+
+        public OrderRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<IEnumerable<Order>> GetAllOrders()
+        {
+            return await _context.Orders.ToListAsync();
+        }
+
+        public async Task<IEnumerable<Order>> GetOrdersForUser(int userId)
+        {
+            return await _context.Orders
+                .Where(o => o.UserId == userId)
+                .ToListAsync();
+        }
+
+        public async Task<Order> AddOrder(Order order)
+        {
+            await _context.Orders.AddAsync(order);
+            await _context.SaveChangesAsync();
+
+            return order;
+        }
+
+        public async Task<bool> RemoveOrder(int id)
+        {
+            var order = await _context.Orders.FindAsync(id);
+
+            if(order == null)
+            {
+                return false;
+            }
+
+            _context.Orders.Remove(order);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
+    }
+}
