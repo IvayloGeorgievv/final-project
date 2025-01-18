@@ -3,152 +3,184 @@
   "WorkspaceRootPath": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\finalproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\orderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\orderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\orderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\orderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\orderproduct\\updateorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\orderproduct\\updateorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\orderproduct\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\orderproduct\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\orderproduct\\createorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\orderproduct\\createorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\mobilephoneimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\mobilephoneimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\mobilephonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\mobilephonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\mobilephoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\mobilephoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\mobilephone\\mobilephonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\mobilephone\\mobilephonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\imagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\imagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\imageshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\imageshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\registeruservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\registeruservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\mobilephone\\updatemobilephonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\mobilephone\\updatemobilephonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\controllers\\mobilephonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\mobilephonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\mobilephone\\createmobilephonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\mobilephone\\createmobilephonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\cart\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\cart\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\models\\mobilephoneimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\models\\mobilephoneimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\order\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\order\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\order\\createordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\order\\createordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\jwttokenuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\jwttokenuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\mobilephone\\updatemobilephonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\mobilephone\\updatemobilephonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\mobilephoneimage\\createmobilephoneimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\mobilephoneimage\\createmobilephoneimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\mobilephoneimage\\mobilephoneimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\mobilephoneimage\\mobilephoneimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\verificationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\verificationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\mobilephone\\mobilephonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\mobilephone\\mobilephonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\mobilephone\\createmobilephonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\mobilephone\\createmobilephonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\dtos\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\dtos\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\verificationutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\verificationutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\passwordutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\utilities\\passwordutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\userresponsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\userresponsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\createuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\createuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\orderproduct\\updateorderproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\orderproduct\\updateorderproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\orderproduct\\orderproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\orderproduct\\orderproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\orderproduct\\createorderproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\orderproduct\\createorderproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\updateuserrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\updateuserrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\updateuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\updateuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\jwttokenuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\jwttokenuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\domain\\viewmodels\\user\\loginuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\domain\\viewmodels\\user\\loginuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,306 +190,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\Order\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\Order\\OrderDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\Order\\OrderDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\Order\\OrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:46:38.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateOrderDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\Order\\CreateOrderDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\Order\\CreateOrderDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\Order\\CreateOrderDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\Order\\CreateOrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:46:28.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Services\\OrderService.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderService.cs",
-              "RelativeToolTip": "FinalProject\\Services\\OrderService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:40:58.813Z",
+              "Title": "FinalProject.http",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.http",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.http",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.http",
+              "RelativeToolTip": "FinalProject\\FinalProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T01:28:27.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UpdateOrderProductDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\OrderProduct\\UpdateOrderProductDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\OrderProduct\\UpdateOrderProductDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\OrderProduct\\UpdateOrderProductDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\OrderProduct\\UpdateOrderProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\CartService.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\CartService.cs",
+              "RelativeToolTip": "FinalProject\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:31:48.096Z",
+              "WhenOpened": "2025-01-18T00:46:32.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderProductDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\OrderProduct\\OrderProductDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\OrderProduct\\OrderProductDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\OrderProduct\\OrderProductDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\OrderProduct\\OrderProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:29:20.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderProductService.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderProductService.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Services\\OrderProductService.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderProductService.cs",
-              "RelativeToolTip": "FinalProject\\Services\\OrderProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:14:05.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Services\\UserService.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\UserService.cs",
-              "RelativeToolTip": "FinalProject\\Services\\UserService.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAwIcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T20:17:14.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Models\\Order.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Models\\Order.cs",
-              "RelativeToolTip": "FinalProject\\Models\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:10:56.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderProductRepository.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderProductRepository.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Repositories\\OrderProductRepository.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderProductRepository.cs",
-              "RelativeToolTip": "FinalProject\\Repositories\\OrderProductRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:18:49.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "FinalProject\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:03:35.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateOrderProductDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\OrderProduct\\CreateOrderProductDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\OrderProduct\\CreateOrderProductDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\OrderProduct\\CreateOrderProductDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\OrderProduct\\CreateOrderProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:28:34.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "FinalProject\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:37:48.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MobilePhoneImageService.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\MobilePhoneImageService.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Services\\MobilePhoneImageService.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\MobilePhoneImageService.cs",
-              "RelativeToolTip": "FinalProject\\Services\\MobilePhoneImageService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:04:14.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderProduct.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Models\\OrderProduct.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Models\\OrderProduct.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Models\\OrderProduct.cs",
-              "RelativeToolTip": "FinalProject\\Models\\OrderProduct.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:32:19.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "MobilePhoneService.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\MobilePhoneService.cs",
               "RelativeDocumentMoniker": "FinalProject\\Services\\MobilePhoneService.cs",
               "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\MobilePhoneService.cs",
               "RelativeToolTip": "FinalProject\\Services\\MobilePhoneService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAnwH0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T20:46:08.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "FinalProject\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAUwKsAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MobilePhoneRepository.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\MobilePhoneRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Repositories\\MobilePhoneRepository.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\MobilePhoneRepository.cs",
+              "RelativeToolTip": "FinalProject\\Repositories\\MobilePhoneRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:31:05.126Z",
+              "WhenOpened": "2025-01-16T22:42:36.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ImagesHelper.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\ImagesHelper.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Utilities\\ImagesHelper.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\ImagesHelper.cs",
-              "RelativeToolTip": "FinalProject\\Utilities\\ImagesHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\OrderService.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderService.cs",
+              "RelativeToolTip": "FinalProject\\Services\\OrderService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwvw4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T23:07:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\UserService.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\UserService.cs",
+              "RelativeToolTip": "FinalProject\\Services\\UserService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwI8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:17:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\RegisterUserVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\RegisterUserVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\RegisterUserVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\RegisterUserVM.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:37:41.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImagesConverter.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\ImagesConverter.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Utilities\\ImagesConverter.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\ImagesConverter.cs",
+              "RelativeToolTip": "FinalProject\\Utilities\\ImagesConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T22:24:05.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MobilePhoneDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\MobilePhone\\MobilePhoneDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\MobilePhone\\MobilePhoneDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\MobilePhone\\MobilePhoneDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\MobilePhone\\MobilePhoneDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:05:15.188Z",
+              "WhenOpened": "2025-01-15T01:33:39.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Models\\User.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Models\\User.cs",
-              "RelativeToolTip": "FinalProject\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:27:45.916Z",
+              "WhenOpened": "2025-01-15T15:31:05.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Utilities\\JwtHelper.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\JwtHelper.cs",
-              "RelativeToolTip": "FinalProject\\Utilities\\JwtHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T02:12:26.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UpdateMobilePhoneDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\MobilePhone\\UpdateMobilePhoneDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\MobilePhone\\UpdateMobilePhoneDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\MobilePhone\\UpdateMobilePhoneDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\MobilePhone\\UpdateMobilePhoneDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:59:17.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
               "Title": "MobilePhoneController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\MobilePhoneController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\MobilePhoneController.cs",
               "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\MobilePhoneController.cs",
               "RelativeToolTip": "FinalProject\\Controllers\\MobilePhoneController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAD4vz4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwBgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:21:22.916Z"
+              "WhenOpened": "2025-01-17T21:09:00.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CreateMobilePhoneDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\MobilePhone\\CreateMobilePhoneDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\MobilePhone\\CreateMobilePhoneDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\MobilePhone\\CreateMobilePhoneDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\MobilePhone\\CreateMobilePhoneDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxQAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:57:41.022Z"
+              "WhenOpened": "2025-01-16T23:06:27.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAnwFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T01:05:04.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Repositories\\CartRepository.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "FinalProject\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:13:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "FinalProject\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAASwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:03:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "FinalProject\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:37:48.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\Cart.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\Cart.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\Models\\Cart.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:29:30.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Cart\\CartVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\Cart\\CartVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Cart\\CartVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\Cart\\CartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:49:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\Order.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\Order.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:10:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\appsettings.json",
               "RelativeDocumentMoniker": "FinalProject\\appsettings.json",
@@ -465,163 +449,333 @@
               "RelativeToolTip": "FinalProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T02:03:32.569Z"
+              "WhenOpened": "2025-01-15T02:03:32.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UpdateUserRoleDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\UpdateUserRoleDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\UpdateUserRoleDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\UpdateUserRoleDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\UpdateUserRoleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:41:15.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 20,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\UserController.cs",
               "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
               "RelativeToolTip": "FinalProject\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwCgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:08:35.922Z"
+              "WhenOpened": "2025-01-17T21:02:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MobilePhoneImage.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\MobilePhoneImage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\MobilePhoneImage.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\MobilePhoneImage.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\Models\\MobilePhoneImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:18:22.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Order\\OrderVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\Order\\OrderVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Order\\OrderVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\Order\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:46:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateOrderVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Order\\CreateOrderVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\Order\\CreateOrderVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Order\\CreateOrderVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\Order\\CreateOrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:46:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateMobilePhoneVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\UpdateMobilePhoneVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhone\\UpdateMobilePhoneVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\UpdateMobilePhoneVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\MobilePhone\\UpdateMobilePhoneVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:59:17.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateMobilePhoneImageVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\CreateMobilePhoneImageVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\CreateMobilePhoneImageVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\CreateMobilePhoneImageVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\CreateMobilePhoneImageVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:23:38.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "FinalProject\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MobilePhoneImageVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\MobilePhoneImageVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\MobilePhoneImageVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\MobilePhoneImageVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\MobilePhoneImageVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:11:27.301Z"
+              "WhenOpened": "2025-01-17T22:25:08.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "UpdateUserDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\UpdateUserDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\UpdateUserDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\UpdateUserDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\UpdateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\OrderProduct.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:13:19.918Z"
+              "WhenOpened": "2025-01-16T09:32:19.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "UserResponseDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\UserResponseDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\UserResponseDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\UserResponseDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\UserResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Title": "MobilePhoneVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\MobilePhoneVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhone\\MobilePhoneVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\MobilePhoneVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\MobilePhone\\MobilePhoneVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:19:47.826Z"
+              "WhenOpened": "2025-01-15T14:05:15.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "JwtTokenUserDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\JwtTokenUserDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\JwtTokenUserDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\JwtTokenUserDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\JwtTokenUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CreateMobilePhoneVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\CreateMobilePhoneVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhone\\CreateMobilePhoneVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\CreateMobilePhoneVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\MobilePhone\\CreateMobilePhoneVM.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:44:41.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "LoginUserDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\LoginUserDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\LoginUserDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\LoginUserDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\LoginUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:33:05.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "VerificationHelper.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\VerificationHelper.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Utilities\\VerificationHelper.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\VerificationHelper.cs",
-              "RelativeToolTip": "FinalProject\\Utilities\\VerificationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:15:12.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\CreateUserDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\CreateUserDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\CreateUserDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\CreateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:15:38.627Z"
+              "WhenOpened": "2025-01-15T13:57:41.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "UserRoleEnum.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Enums\\UserRoleEnum.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Enums\\UserRoleEnum.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Enums\\UserRoleEnum.cs",
-              "RelativeToolTip": "FinalProject\\Enums\\UserRoleEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "VerificationUtil.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\VerificationUtil.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Utilities\\VerificationUtil.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\VerificationUtil.cs",
+              "RelativeToolTip": "FinalProject\\Utilities\\VerificationUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:52:45.401Z"
+              "WhenOpened": "2025-01-15T19:15:12.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "RegisterUserDTO.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\RegisterUserDTO.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Dtos\\User\\RegisterUserDTO.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Dtos\\User\\RegisterUserDTO.cs",
-              "RelativeToolTip": "FinalProject\\Dtos\\User\\RegisterUserDTO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "PasswordUtil.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\PasswordUtil.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Utilities\\PasswordUtil.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\PasswordUtil.cs",
+              "RelativeToolTip": "FinalProject\\Utilities\\PasswordUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:37:41.6Z"
+              "WhenOpened": "2025-01-15T16:17:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtGenerator.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\JwtGenerator.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Utilities\\JwtGenerator.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\JwtGenerator.cs",
+              "RelativeToolTip": "FinalProject\\Utilities\\JwtGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:12:26.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "PasswordHelper.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\PasswordHelper.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Utilities\\PasswordHelper.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\PasswordHelper.cs",
-              "RelativeToolTip": "FinalProject\\Utilities\\PasswordHelper.cs",
+              "Title": "UserResponseVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UserResponseVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\UserResponseVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UserResponseVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\UserResponseVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:17:53.276Z"
+              "WhenOpened": "2025-01-15T19:19:47.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\User.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:27:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FinalProject.csproj",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject\\FinalProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T22:41:04.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Program.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
-              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Program.cs",
-              "RelativeToolTip": "FinalProject\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:33:39.569Z"
+              "WhenOpened": "2025-01-15T14:52:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateUserVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\CreateUserVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\CreateUserVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\CreateUserVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\CreateUserVM.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:15:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderProductVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\OrderProductVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\OrderProduct\\OrderProductVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\OrderProductVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\OrderProduct\\OrderProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:29:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateOrderProductVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\UpdateOrderProductVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\OrderProduct\\UpdateOrderProductVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\UpdateOrderProductVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\OrderProduct\\UpdateOrderProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:31:48.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateOrderProductVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\CreateOrderProductVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\OrderProduct\\CreateOrderProductVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\CreateOrderProductVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\OrderProduct\\CreateOrderProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:28:34.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateUserRoleVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UpdateUserRoleVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\UpdateUserRoleVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UpdateUserRoleVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\UpdateUserRoleVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:41:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateUserVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UpdateUserVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\UpdateUserVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UpdateUserVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\UpdateUserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:13:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "JwtTokenUserVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\JwtTokenUserVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\JwtTokenUserVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\JwtTokenUserVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\JwtTokenUserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:44:41.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginUserVM.cs",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\LoginUserVM.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\LoginUserVM.cs",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\LoginUserVM.cs",
+              "RelativeToolTip": "FinalProject\\Domain\\ViewModels\\User\\LoginUserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:33:05.19Z",
+              "EditorCaption": ""
             }
           ]
         }

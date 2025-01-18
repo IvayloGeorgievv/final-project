@@ -104,3 +104,16 @@ D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\obj\Debug\net8.0\Final
 D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
 D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
 D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\SixLabors.ImageSharp.Web.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+D:\uni\Subitiiino\Final Project\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.sourcelink.json

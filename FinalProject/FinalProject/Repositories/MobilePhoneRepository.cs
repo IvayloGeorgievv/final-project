@@ -1,6 +1,5 @@
-﻿using FinalProject.Data;
-using FinalProject.Dtos.MobilePhone;
-using FinalProject.Models;
+﻿using FinalProject.DataBase;
+using FinalProject.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace FinalProject.Repositories
@@ -53,7 +52,7 @@ namespace FinalProject.Repositories
 
         public async Task<MobilePhone> GetMobilePhoneById(int id)
         {
-            return await _context.MobilePhones.FindAsync(id);
+            return await _context.MobilePhones.FirstOrDefaultAsync(m => m.Id == id);
         }
 
         public async Task<IEnumerable<MobilePhone>> SeachMobilePhones(string searchTerm)
@@ -66,6 +65,15 @@ namespace FinalProject.Repositories
         public async Task<bool> MobilePhoneExists(int id)
         {
             return await _context.MobilePhones.AnyAsync(m => m.Id == id);
+        }
+
+        //It is used to get the newest id before the new phone is added to db for the mainImage upload
+        public async Task<int> GetLatestPhoneId()
+        {
+            return await _context.MobilePhones
+            .OrderByDescending(phone => phone.Id)
+            .Select(phone => phone.Id)
+            .FirstOrDefaultAsync();
         }
 
         public async Task<MobilePhone> AddMobilePhone(MobilePhone mobilePhone)
@@ -109,6 +117,40 @@ namespace FinalProject.Repositories
             _context.MobilePhones.Remove(mobilePhone);
             await _context.SaveChangesAsync();
             return true;
+        }
+
+
+        /*
+         *      MobilePhoneImages Methods
+         */
+
+        public async Task<IEnumerable<MobilePhoneImage>> GetImagesByPhoneId(int phoneId)
+        {
+            return await _context.MobilePhoneImages
+                .Where(m => m.MobilePhoneId == phoneId)
+                .ToListAsync();
+        }
+
+        public async Task<List<MobilePhoneImage>> AddMobilePhoneImages(List<MobilePhoneImage> images)
+        {
+            await _context.MobilePhoneImages.AddRangeAsync(images);
+            await _context.SaveChangesAsync();
+
+            return images;
+        }
+
+        public async Task DeleteMobilePhoneImages(int phoneId)
+        {
+            var images = await _context.MobilePhoneImages
+                .Where(m => m.MobilePhoneId == phoneId)
+                .ToListAsync();
+
+            if (images.Any())
+            {
+                _context.MobilePhoneImages.RemoveRange(images);
+
+                await _context.SaveChangesAsync();
+            }
         }
     }
 }

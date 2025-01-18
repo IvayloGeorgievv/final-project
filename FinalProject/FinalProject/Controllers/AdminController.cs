@@ -1,7 +1,5 @@
-﻿using FinalProject.Dtos.MobilePhone;
-using FinalProject.Dtos.MobilePhoneImage;
-using FinalProject.Dtos.User;
-using FinalProject.Repositories;
+﻿using FinalProject.Domain.ViewModels.MobilePhone;
+using FinalProject.Domain.ViewModels.User;
 using FinalProject.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -40,7 +38,7 @@ namespace FinalProject.Controllers
         }
 
         [HttpPost("UpdateUserRole/{id}")]
-        public async Task<IActionResult> UpdateUserRole(int id, [FromBody] UpdateUserRoleDTO updateUserRoleDTO)
+        public async Task<IActionResult> UpdateUserRole(int id, [FromBody] UpdateUserRoleVM updateUserRoleVM)
         {
             if (!ModelState.IsValid)
             {
@@ -48,7 +46,7 @@ namespace FinalProject.Controllers
             }
             try
             {
-                await _userService.UpdateUserRole(id, updateUserRoleDTO.NewRole);
+                await _userService.UpdateUserRole(id, updateUserRoleVM.NewRole);
                 return Ok(new { Message = "User role updated successfully." });
             }
             catch(KeyNotFoundException ex)
@@ -84,7 +82,7 @@ namespace FinalProject.Controllers
         }
 
         /*
-        *  MobilePhone Methods
+        *       MobilePhone Methods
         */
 
         [HttpGet("GetAllMobilePhones")]
@@ -103,7 +101,7 @@ namespace FinalProject.Controllers
         }
 
         [HttpPost("CreateMobilePhone")]
-        public async Task<IActionResult> CreateMobilePhone([FromBody] CreateMobilePhoneDTO createMobilePhoneDTO)
+        public async Task<IActionResult> CreateMobilePhone([FromBody] CreateMobilePhoneVM createMobilePhoneVM)
         {
             if (!ModelState.IsValid)
             {
@@ -112,7 +110,7 @@ namespace FinalProject.Controllers
 
             try
             {
-                await _mobilePhoneService.AddMobilePhone(createMobilePhoneDTO);
+                await _mobilePhoneService.AddMobilePhone(createMobilePhoneVM);
 
                 return Ok(new { Message = "Mobile phone created successfully." });
             }
@@ -122,8 +120,28 @@ namespace FinalProject.Controllers
             }
         }
 
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetMobilePhoneId(int id)
+        {
+            try
+            {
+                var phone = await _mobilePhoneService.GetMobilePhoneById(id);
+
+                if (phone == null)
+                {
+                    return NotFound(new { Message = $"Mobile phone with ID {id} not found." });
+                }
+
+                return Ok(phone);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "Error: " + ex.Message });
+            }
+        }
+
         [HttpPut("UpdateMobilePhone/{id}")]
-        public async Task<IActionResult> UpdateMobilePhone(int id,[FromBody]  UpdateMobilePhoneDTO updateMobilePhoneDTO)
+        public async Task<IActionResult> UpdateMobilePhone(int id,[FromBody]  UpdateMobilePhoneVM updateMobilePhoneVM)
         {
             if (!ModelState.IsValid)
             {
@@ -132,7 +150,7 @@ namespace FinalProject.Controllers
 
             try
             {
-                var result = await _mobilePhoneService.UpdateMobilePhone(id, updateMobilePhoneDTO);
+                var result = await _mobilePhoneService.UpdateMobilePhone(id, updateMobilePhoneVM);
 
                 if (result == null)
                 {
@@ -156,7 +174,7 @@ namespace FinalProject.Controllers
 
                 if (!result)
                 {
-                    return NotFound(new { Message = "Mobile phone not found or delete failed." });
+                    return NotFound(new { Message = $"Mobile phone with ID {id} not found." });
                 }
 
                 return Ok(new { Message = "Mobile phone deleted successfully." });

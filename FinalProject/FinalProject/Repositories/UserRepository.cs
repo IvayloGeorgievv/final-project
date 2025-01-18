@@ -1,7 +1,6 @@
-﻿using FinalProject.Data;
-using FinalProject.Dtos.User;
-using FinalProject.Enums;
-using FinalProject.Models;
+﻿using FinalProject.DataBase;
+using FinalProject.Domain.Enums;
+using FinalProject.Domain.Models;
 using FinalProject.Utilities;
 using Microsoft.EntityFrameworkCore;
 
@@ -70,7 +69,7 @@ namespace FinalProject.Repositories
             return null;
         }
 
-        public async Task<bool> UpdateUserRole(int userId, UserRoleEnum newRole)
+        public async Task<bool> UpdateUserRole(int userId, UserRole newRole)
         {
             var user = await _context.Users.FindAsync(userId);
 

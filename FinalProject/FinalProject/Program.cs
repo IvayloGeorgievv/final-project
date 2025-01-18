@@ -1,5 +1,6 @@
-using FinalProject.Data;
+using FinalProject.DataBase;
 using FinalProject.Repositories;
+using FinalProject.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -16,13 +17,14 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<MobilePhoneRepository>();
+builder.Services.AddScoped<OrderRepository>();
+builder.Services.AddScoped<CartRepository>();
 
-builder.Services.AddSession(options =>
-{
-    options.IdleTimeout = TimeSpan.FromHours(1);
-    options.Cookie.HttpOnly = true;
-    options.Cookie.IsEssential = true;
-});
+builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<MobilePhoneService>();
+builder.Services.AddScoped<OrderService>();
+builder.Services.AddScoped<CartService>();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -42,8 +44,6 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
-
-app.UseSession();
 
 // Configure the HTTP request pipeline.
 app.UseHttpsRedirection();

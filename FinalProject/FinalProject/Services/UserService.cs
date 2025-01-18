@@ -1,9 +1,10 @@
-﻿using FinalProject.Dtos.User;
-using FinalProject.Enums;
-using FinalProject.Models;
+﻿using FinalProject.Domain.Enums;
+using FinalProject.Domain.Models;
+using FinalProject.Domain.ViewModels.User;
 using FinalProject.Repositories;
 using FinalProject.Utilities;
 using Microsoft.Extensions.Configuration;
+using System.ComponentModel.DataAnnotations;
 
 namespace FinalProject.Services
 {
@@ -18,36 +19,25 @@ namespace FinalProject.Services
             _configuration = configuration;
         }
 
-        public async Task<(string Token, UserResponseDTO User)> RegisterUser(RegisterUserDTO registerUserDTO)
+        public async Task<(string Token, UserResponseVM User)> RegisterUser(RegisterUserVM registerUserVM)
         {
-            if (registerUserDTO.Password != registerUserDTO.ConfirmPassword)
-                throw new ArgumentException("Password and Confirm Password do not match.");
-
-            if (!PasswordHelper.IsPasswordSecure(registerUserDTO.Password))
-                throw new ArgumentException("Password must contain at least one capital letter and one number.");
-
-
-            if (await _userRepository.UserWithUsernameExists(registerUserDTO.Username))
-                throw new Exception("Username is already taken.");
-
-            if (await _userRepository.UserWithEmailExists(registerUserDTO.Email))
-                throw new Exception("Email is already in use.");
+            await VerificationUtil.VerifyUser(registerUserVM, _userRepository);
 
             var user = new User
             {
-                Username = registerUserDTO.Username,
-                FirstName = registerUserDTO.FirstName,
-                LastName = registerUserDTO.LastName,
-                Email = registerUserDTO.Email,
-                Password = PasswordHelper.HashPassword(registerUserDTO.Password),
-                Role = Enums.UserRoleEnum.User
+                Username = registerUserVM.Username,
+                FirstName = registerUserVM.FirstName,
+                LastName = registerUserVM.LastName,
+                Email = registerUserVM.Email,
+                Password = PasswordUtil.HashPassword(registerUserVM.Password),
+                Role = UserRole.USER
             };
 
             user = await _userRepository.AddUser(user);
 
-            var token = JwtHelper.GenerateJwtToken(user, _configuration);
+            var token = JwtGenerator.GenerateJwtToken(user, _configuration);
 
-            var userResponseDto = new UserResponseDTO
+            var userResponseDto = new UserResponseVM
             {
                 Id = user.Id,
                 Username = user.Username,
@@ -60,18 +50,18 @@ namespace FinalProject.Services
             return (token, userResponseDto);
         }
 
-        public async Task<(string Token, UserResponseDTO User)> LoginUser(LoginUserDTO loginUserDTO)
+        public async Task<(string Token, UserResponseVM User)> LoginUser(LoginUserVM loginUserVM)
         {
-            var user = await _userRepository.GetUserByUsernameOrEmail(loginUserDTO.UsernameOrEmail);
+            var user = await _userRepository.GetUserByUsernameOrEmail(loginUserVM.UsernameOrEmail);
 
-            if(user == null || !PasswordHelper.VerifyPassword(loginUserDTO.Password, user.Password))
+            if(user == null || !PasswordUtil.VerifyPassword(loginUserVM.Password, user.Password))
             {
                 throw new UnauthorizedAccessException("Invalid username or password");
             }
 
-            var token = JwtHelper.GenerateJwtToken(user, _configuration);
+            var token = JwtGenerator.GenerateJwtToken(user, _configuration);
 
-            var userResponseDto = new UserResponseDTO
+            var userResponseDto = new UserResponseVM
             {
                 Id = user.Id,
                 Username = user.Username,
@@ -84,11 +74,11 @@ namespace FinalProject.Services
             return (token, userResponseDto);
         }
 
-        public async Task<IEnumerable<UserResponseDTO>> GetUsers()
+        public async Task<IEnumerable<UserResponseVM>> GetUsers()
         {
             var users = await _userRepository.GetUsers();
 
-            return users.Select(user => new UserResponseDTO
+            return users.Select(user => new UserResponseVM
             {
                 Id = user.Id,
                 Username = user.Username,
@@ -99,7 +89,7 @@ namespace FinalProject.Services
             });
         }
 
-        public async Task<UserResponseDTO> GetUserById(int id)
+        public async Task<UserResponseVM> GetUserById(int id)
         {
             var user = await _userRepository.GetUserById(id);
 
@@ -108,7 +98,7 @@ namespace FinalProject.Services
                 return null;
             }
 
-            return new UserResponseDTO
+            return new UserResponseVM
             {
                 Id = user.Id,
                 Username = user.Username,
@@ -119,7 +109,7 @@ namespace FinalProject.Services
             };
         }
 
-        public async Task UpdateUser(int id, UpdateUserDTO updateUserDto)
+        public async Task UpdateUser(int id, UpdateUserVM updateUserVM)
         {
             var user = await _userRepository.GetUserById(id);
 
@@ -128,15 +118,15 @@ namespace FinalProject.Services
                 throw new Exception($"User with ID {id} not found.");
             }
 
-            user.Username = updateUserDto.Username ?? user.Username;
-            user.Email = updateUserDto.Email ?? user.Email;
-            user.FirstName = updateUserDto.FirstName ?? user.FirstName;
-            user.LastName = updateUserDto.LastName ?? user.LastName;
+            user.Username = updateUserVM.Username ?? user.Username;
+            user.Email = updateUserVM.Email ?? user.Email;
+            user.FirstName = updateUserVM.FirstName ?? user.FirstName;
+            user.LastName = updateUserVM.LastName ?? user.LastName;
 
             await _userRepository.UpdateUser(user);
         }
 
-        public async Task<bool> UpdateUserRole(int userId, UserRoleEnum newRole)
+        public async Task<bool> UpdateUserRole(int userId, UserRole newRole)
         {
             var user = await _userRepository.GetUserById(userId);
 

@@ -1,4 +1,4 @@
-﻿using FinalProject.Dtos.User;
+﻿using FinalProject.Domain.ViewModels.User;
 using FinalProject.Repositories;
 using FinalProject.Services;
 using FinalProject.Utilities;
@@ -20,7 +20,7 @@ namespace FinalProject.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody]RegisterUserDTO registerUserDTO)
+        public async Task<IActionResult> Register([FromBody]RegisterUserVM registerUserDTO)
         {
             try
             {
@@ -38,7 +38,7 @@ namespace FinalProject.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody]LoginUserDTO loginUserDTO)
+        public async Task<IActionResult> Login([FromBody]LoginUserVM loginUserDTO)
         {
             try
             {
@@ -69,11 +69,11 @@ namespace FinalProject.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateUser(int id, UpdateUserDTO updateUserDTO)
+        public async Task<IActionResult> UpdateUser(int id, UpdateUserVM updateUserVM)
         {
             try
             {
-                await _userService.UpdateUser(id, updateUserDTO);
+                await _userService.UpdateUser(id, updateUserVM);
                 return NoContent();
             }
             catch(Exception ex)
