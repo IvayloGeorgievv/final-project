@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\finalproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\repositories\\mobilephonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\repositories\\mobilephonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\services\\mobilephoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\mobilephoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A839A47-5AAA-4C1D-81C0-E1AF9DD6402D}|FinalProject\\FinalProject.csproj|d:\\uni\\subitiiino\\final project\\finalproject\\finalproject\\utilities\\imagesconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,11 +190,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "FinalProject.http",
+              "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.http",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.http",
+              "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.http",
+              "RelativeToolTip": "FinalProject\\FinalProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T01:28:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CartService.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "FinalProject\\Services\\CartService.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MobilePhoneService.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\MobilePhoneService.cs",
               "RelativeDocumentMoniker": "FinalProject\\Services\\MobilePhoneService.cs",
@@ -216,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MobilePhoneRepository.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\MobilePhoneRepository.cs",
               "RelativeDocumentMoniker": "FinalProject\\Repositories\\MobilePhoneRepository.cs",
@@ -229,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "FinalProject\\Services\\OrderService.cs",
@@ -242,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "FinalProject\\Services\\UserService.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RegisterUserVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\RegisterUserVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\RegisterUserVM.cs",
@@ -268,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ImagesConverter.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\ImagesConverter.cs",
               "RelativeDocumentMoniker": "FinalProject\\Utilities\\ImagesConverter.cs",
@@ -281,20 +298,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Program.cs",
               "RelativeDocumentMoniker": "FinalProject\\Program.cs",
               "ToolTip": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Program.cs",
               "RelativeToolTip": "FinalProject\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T01:33:39.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\AdminController.cs",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MobilePhoneController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\MobilePhoneController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\MobilePhoneController.cs",
@@ -320,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\OrderController.cs",
@@ -333,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\CartController.cs",
@@ -346,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "FinalProject\\Repositories\\CartRepository.cs",
@@ -359,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "FinalProject\\Repositories\\OrderRepository.cs",
@@ -372,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "FinalProject\\Repositories\\UserRepository.cs",
@@ -385,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\Cart.cs",
@@ -398,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CartVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Cart\\CartVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\Cart\\CartVM.cs",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\Order.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\Order.cs",
@@ -424,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\appsettings.json",
               "RelativeDocumentMoniker": "FinalProject\\appsettings.json",
@@ -437,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "FinalProject\\Controllers\\UserController.cs",
@@ -450,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "MobilePhoneImage.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\MobilePhoneImage.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\MobilePhoneImage.cs",
@@ -463,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "OrderVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Order\\OrderVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\Order\\OrderVM.cs",
@@ -476,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CreateOrderVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\Order\\CreateOrderVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\Order\\CreateOrderVM.cs",
@@ -489,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UpdateMobilePhoneVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\UpdateMobilePhoneVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhone\\UpdateMobilePhoneVM.cs",
@@ -502,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateMobilePhoneImageVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\CreateMobilePhoneImageVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\CreateMobilePhoneImageVM.cs",
@@ -515,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "MobilePhoneImageVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\MobilePhoneImageVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhoneImage\\MobilePhoneImageVM.cs",
@@ -528,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "OrderProduct.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\OrderProduct.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\OrderProduct.cs",
@@ -541,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "MobilePhoneVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\MobilePhoneVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhone\\MobilePhoneVM.cs",
@@ -554,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CreateMobilePhoneVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\MobilePhone\\CreateMobilePhoneVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\MobilePhone\\CreateMobilePhoneVM.cs",
@@ -567,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "VerificationUtil.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\VerificationUtil.cs",
               "RelativeDocumentMoniker": "FinalProject\\Utilities\\VerificationUtil.cs",
@@ -580,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "PasswordUtil.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\PasswordUtil.cs",
               "RelativeDocumentMoniker": "FinalProject\\Utilities\\PasswordUtil.cs",
@@ -593,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "JwtGenerator.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Utilities\\JwtGenerator.cs",
               "RelativeDocumentMoniker": "FinalProject\\Utilities\\JwtGenerator.cs",
@@ -606,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "UserResponseVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UserResponseVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\UserResponseVM.cs",
@@ -619,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\Models\\User.cs",
@@ -632,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "FinalProject.csproj",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\FinalProject.csproj",
               "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
@@ -645,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\Enums\\UserRole.cs",
@@ -658,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CreateUserVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\CreateUserVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\CreateUserVM.cs",
@@ -671,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "OrderProductVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\OrderProductVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\OrderProduct\\OrderProductVM.cs",
@@ -684,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "UpdateOrderProductVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\UpdateOrderProductVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\OrderProduct\\UpdateOrderProductVM.cs",
@@ -697,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "CreateOrderProductVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\OrderProduct\\CreateOrderProductVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\OrderProduct\\CreateOrderProductVM.cs",
@@ -710,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "UpdateUserRoleVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UpdateUserRoleVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\UpdateUserRoleVM.cs",
@@ -723,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "UpdateUserVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\UpdateUserVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\UpdateUserVM.cs",
@@ -736,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "JwtTokenUserVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\JwtTokenUserVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\JwtTokenUserVM.cs",
@@ -749,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "LoginUserVM.cs",
               "DocumentMoniker": "D:\\uni\\Subitiiino\\Final Project\\FinalProject\\FinalProject\\Domain\\ViewModels\\User\\LoginUserVM.cs",
               "RelativeDocumentMoniker": "FinalProject\\Domain\\ViewModels\\User\\LoginUserVM.cs",

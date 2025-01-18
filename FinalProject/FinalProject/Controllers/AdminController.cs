@@ -12,11 +12,13 @@ namespace FinalProject.Controllers
     {
         private readonly UserService _userService;
         private readonly MobilePhoneService _mobilePhoneService;
+        private readonly OrderService _orderService;
 
-        public AdminController(UserService userService, MobilePhoneService mobilePhoneService)
+        public AdminController(UserService userService, MobilePhoneService mobilePhoneService, OrderService orderService)
         {
             _userService = userService;
             _mobilePhoneService = mobilePhoneService;
+            _orderService = orderService;
         }
 
         /*
@@ -120,7 +122,7 @@ namespace FinalProject.Controllers
             }
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("GetMobilePhone/{id}")]
         public async Task<IActionResult> GetMobilePhoneId(int id)
         {
             try
@@ -185,10 +187,46 @@ namespace FinalProject.Controllers
             }
         }
 
-        /*
-        *  MobilePhoneImages Methods
-        */
 
+        /*
+         *  Orders methods
+         */
+
+        [HttpGet("GetAllOrders")]
+        public async Task<IActionResult> GetAllOrders()
+        {
+            try
+            {
+                var orders = await _orderService.GetAllOrders();
+
+                return Ok(orders);
+            }
+            catch(Exception ex)
+            {
+                return StatusCode(500, new {Message = "Error: " + ex.Message});
+            }
+        }
+
+        [HttpGet("GetOrderById/{id}")]
+        public async Task<IActionResult> GetOrderById(int id)
+        {
+            try
+            {
+                var order = await _orderService.GetOrderById(id);
+
+                if (order == null)
+                {
+                    return NotFound(new { Message = "Order not found." });
+                }
+
+                return Ok(order);
+            }
+
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "Error: " + ex.Message });
+            }
+        }
        
     }
 }

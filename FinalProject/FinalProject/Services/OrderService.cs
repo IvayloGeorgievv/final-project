@@ -44,6 +44,21 @@ namespace FinalProject.Services
             });
         }
 
+        public async Task<OrderVM> GetOrderById(int id)
+        {
+            var order = await _orderRepository.GetOrderById(id);
+
+            return new OrderVM
+            {
+                Id = order.Id,
+                UserId = order.UserId,
+                TotalAmount = order.TotalAmount,
+                OrderDate = order.OrderDate,
+                Address = order.Address
+            };
+        }
+
+
         public async Task<OrderVM> AddOrder(CreateOrderVM createOrderVM)
         {
             var order = new Order

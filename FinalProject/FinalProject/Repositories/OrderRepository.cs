@@ -25,6 +25,11 @@ namespace FinalProject.Repositories
                 .ToListAsync();
         }
 
+        public async Task<Order> GetOrderById(int id)
+        {
+            return await _context.Orders.FindAsync(id);
+        }
+
         public async Task<Order> AddOrder(Order order)
         {
             await _context.Orders.AddAsync(order);
